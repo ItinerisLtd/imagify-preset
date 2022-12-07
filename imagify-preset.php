@@ -5,7 +5,7 @@ declare(strict_types=1);
  * Plugin Name:     Imagify Preset
  * Plugin URI:      https://github.com/itinerisltd/imagify-preset
  * Description:     Configuration for Imagify.
- * Version:         0.1.0
+ * Version:         0.2.0
  * Author:          Itineris Limited
  * Author URI:      https://www.itineris.co.uk/
  * Text Domain:     imagify-preset
